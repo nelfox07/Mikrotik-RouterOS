@@ -1,0 +1,5 @@
+www.starlink.com
+dishy.starlink.com
+api.starlink.com
+auth.starlink.com
+192.168.100.1
