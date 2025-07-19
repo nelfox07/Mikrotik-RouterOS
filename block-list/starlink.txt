@@ -1,5 +1,3 @@
-www.starlink.com
-dishy.starlink.com
-api.starlink.com
-auth.starlink.com
+# Starlink IPs
 192.168.100.1
+13.32.123.60
