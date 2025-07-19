@@ -1,4 +1,3 @@
-#Add here
-www.pornhub.com
-pornhub.com
-fancentro.com
+# Just a sample, use real IPs of adult sites
+13.32.123.45
+185.42.46.84
