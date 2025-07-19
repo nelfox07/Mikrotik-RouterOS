@@ -1,3 +1,5 @@
-# Just a sample, use real IPs of adult sites
-13.32.123.45
-185.42.46.84
+# www.pornhub.com
+66.254.114.41
+
+# www.fancentro.com
+66.254.114.42
